@@ -1,7 +1,7 @@
 --- 
 title: "Curso Interactivo de Inteligencia Artificial aplicado a la Ingeniería de Prompts con ChatGPT"
 author: "Ángel López-Mujeriego Collado"
-date: "2024-06-27"
+date: "2024-06-29"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
